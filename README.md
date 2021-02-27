@@ -1,2 +1,5 @@
 ## senai
-Curso de Front End -> DESENVOLVIMENTO FRONT-END COM HTML5, CSS3 E JAVASCRIPT 
+✔ Curso de Front End 
+⚡HTML5
+⚡CSS3 
+⚡JAVASCRIPT 
