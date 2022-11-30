@@ -4,6 +4,7 @@
 
 [Packgist](https://packagist.org/packages/allanrodrigues/environment-variables-manager)
 
+----
 A simple library for managing environment variables in PHP.
     
 - Database
