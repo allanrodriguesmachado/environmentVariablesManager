@@ -2,8 +2,8 @@
 
 A simple library for managing environment variables in PHP.
     
-- Banco de dados
-- E-mail
+- Database
+- Email
 
 ## How to use
 
