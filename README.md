@@ -22,3 +22,7 @@ DB_PORT=3000
 
  - This library needs PHP 7.0 or greater.
  - Composer
+ 
+ 📦 [Packgist](https://packagist.org/packages/allanrodrigues/environment-variables-manager#dev-main)
+ 
+ 
