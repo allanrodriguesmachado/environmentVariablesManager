@@ -5,6 +5,7 @@ A simple library for managing environment variables in PHP.
 - Database
 - Email
 
+
 ## How to use
 
 To use this library, simply create a `.env` file at the root of the project, following the model below (one variable per line):
