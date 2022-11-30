@@ -2,8 +2,8 @@
 
 A simple library for managing environment variables in PHP.
     
-- Banco de dados
-- E-mail
+- Database
+- Email
 
 ## How to use
 
@@ -12,9 +12,9 @@ To use this library, simply create a `.env` file at the root of the project, fol
 ```
 DB_HOST=localhost
 DB_USER=root
-DB_PASS=pass
+DB_PASS=password
 DB_NAME=database
-DB_PORT=3307
+DB_PORT=3000
 ```
 
 ## Requirements
