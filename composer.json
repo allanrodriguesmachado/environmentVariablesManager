@@ -1,5 +1,5 @@
 {
-    "name": "38672505883/dot-env",
+    "name": "allanrodrigues/environment-variables-manager",
     "autoload": {
         "psr-4": {
             "App\\": "app/"

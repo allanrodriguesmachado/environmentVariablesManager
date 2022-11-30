@@ -5,18 +5,18 @@
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '6c804b10f7c0aaded3076cf85e88c50d27be5052',
-        'name' => '38672505883/dot-env',
+        'reference' => '70c675ce04a24857f95b87887f2e4bd313c98c70',
+        'name' => 'allanrodrigues/environment-variables-manager',
         'dev' => true,
     ),
     'versions' => array(
-        '38672505883/dot-env' => array(
+        'allanrodrigues/environment-variables-manager' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '6c804b10f7c0aaded3076cf85e88c50d27be5052',
+            'reference' => '70c675ce04a24857f95b87887f2e4bd313c98c70',
             'dev_requirement' => false,
         ),
     ),
