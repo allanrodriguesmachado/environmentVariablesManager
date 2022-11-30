@@ -1,5 +1,7 @@
 {
     "name": "allanrodrigues/environment-variables-manager",
+    "description": "A simple library for managing environment variables in PHP.",
+    "type": "library",
     "autoload": {
         "psr-4": {
             "App\\": "app/"
@@ -8,8 +10,13 @@
     "authors": [
         {
             "name": "Allan Rodrigues",
-            "email": "allanrodriguesdeveloper@gmail.com.br"
+            "email": "allanrodriguesdeveloper@gmail.com.br",
+            "role": "Developer"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">7.4 | >=8.1 "
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
