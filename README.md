@@ -1,10 +1,11 @@
 # Environment Variables Manager
 
+📦 [Packgist](https://packagist.org/packages/allanrodrigues/environment-variables-manager#dev-main)
+
 A simple library for managing environment variables in PHP.
     
 - Database
 - Email
-
 
 ## How to use
 
@@ -23,6 +24,15 @@ DB_PORT=3000
  - This library needs PHP 7.0 or greater.
  - Composer
  
- 📦 [Packgist](https://packagist.org/packages/allanrodrigues/environment-variables-manager#dev-main)
  
  
+ 
+<h3>📄 license</h3>
+
+This project is under the MIT license. See the [LICENSE](LICENSE.md) file for more details.
+
+---
+<h3>🎖️ Author</h3>
+
+[<img src="https://avatars.githubusercontent.com/u/54523516?v=4" width="100px;" alt="Foto do Allan Machado no GitHub"/>
+<br><sub>Allan Rodrigues</sub>](https://github.com/allanrodriguesmachado)  
